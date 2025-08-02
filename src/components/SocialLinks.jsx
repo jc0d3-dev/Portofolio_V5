@@ -15,7 +15,7 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/ekizr/",
+    url: "https://www.linkedin.com/in/juniel-damal-damal-3a3575378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true,
